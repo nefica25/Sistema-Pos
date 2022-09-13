@@ -1,9 +1,5 @@
-# Modern POS - Point of Sale with Stock Management System
 
-## Designed and Developed by ITSolution24.com
-
-## itsolution24bd@gmail.com
-## Contact +8801737346122
+## Nestor Figueroa Cardona
+## Nestor.figueroa25@gmail.com
 
 
-## Exclusively on Evanto Codecanyon
